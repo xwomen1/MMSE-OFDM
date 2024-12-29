@@ -42,5 +42,5 @@ Các tham số mặc định được sử dụng:
 
 1. **Clone repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/xwomen1/MMSE-OFDM.git
+   cd MMSE-OFDM
